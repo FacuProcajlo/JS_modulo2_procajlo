@@ -1,0 +1,36 @@
+*{
+    font-size: 3vh;
+}
+nav{
+   
+    
+}
+li a{
+    
+    margin: 1vh;    
+    
+
+}
+a[href="#"] {
+    font-weight: bolder;
+    background-color: lightpink;
+   
+
+}
+section div h2 {
+    font-size:8vh;
+}
+section div a{
+    text-decoration: none;
+}
+input[type=radio] {
+    border: 0px;
+    width: 1em;
+    height: 1em;
+}
+.table th {
+    text-align: center;
+    } 
+  
+        
+        
